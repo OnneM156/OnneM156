@@ -1,4 +1,5 @@
 👋 Personal Research Projects on Simulation, Production-IT & Digital Twins
+
 This repository contains personal research-related work and experiments in the context of:
 - Automated generation of simulation models
 - Digital twin architecture concepts
