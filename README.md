@@ -7,7 +7,7 @@ This repository contains personal research-related work and experiments in the c
 - Exploration of data spaces, digital product passports and their implementation
 - Usage of AgenticAI to solve domain specific tasks such as Simulation optimisation
 
-The content here reflects my ongoing interests and side projects as a professional researcher. It's not an official research repository—just a place to try things out, document ideas, and explore topics I'm actively working on or curious about.
+The content here reflects my ongoing interests and side projects as a professional researcher. It's not an official research repository, just a place to try things out, document ideas, and explore topics I'm actively working on or curious about.
 
 📫 How to reach me ...text me!
 
