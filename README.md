@@ -1,9 +1,9 @@
 👋 Personal Research Projects on Simulation, Production-IT & Digital Twins
 
 This repository contains personal research-related work and experiments in the context of:
-- Automated generation of simulation models
+- Automated generation of simulation and process models
 - Digital twin architecture concepts
-- Production IT and Assembly IT
+- Semantic interoperability and machine-readable data models
 - Exploration of data spaces, digital product passports and their implementation
 - Usage of AgenticAI to solve domain specific tasks such as Simulation optimisation
 
